@@ -1,0 +1,31 @@
+{
+  "name": "uni-fied-cli",
+  "version": "1.0.0",
+  "description": "Unified AI CLI with intelligent file system integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cli", "ai", "unified", "agent"],
+  "author": "Modl Foundation",
+  "license": "MIT",
+  "dependencies": {
+    "@amplitude/analytics-browser": "^2.17.9",
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.10.0",
+    "chalk": "^5.4.1",
+    "cheerio": "^1.1.0",
+    "docx": "^9.5.1",
+    "dotenv": "^17.2.0",
+    "fs-extra": "^11.3.0",
+    "jsdom": "^26.1.0",
+    "node-fetch": "^2.7.0",
+    "simple-git": "^3.28.0",
+    "unzipper": "^0.12.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
