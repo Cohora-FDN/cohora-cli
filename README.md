@@ -1,23 +1,11 @@
-<h1 align="center">🧠 COHORA AI CLI Assistant</h1>
+<h1 align="center"> Cohora's CLI </h1>
 <p align="center"><i>Seamlessly switch and chat with top AI models from your terminal.</i></p>
 <img width="878" height="372" alt="image" src="https://github.com/user-attachments/assets/b0ff7728-e7f1-4164-a51c-2f6a170c52b2" />
 
 ---
 
-## 🚀 Features
 
-- 🔄 **Switchable AI Models** — Instantly switch between Claude and Grok AI models.
-- 🎨 **Animated ASCII Banners** — Beautiful provider banners for a slick experience.
-- ⌨️ **Interactive CLI** — Type commands and messages naturally.
-- 📁 **Intelligent File Operations** — AI automatically detects and performs file operations.
-- 🤖 **Agent Mode** — Natural language file creation, editing, and management.
-- 🔍 **Advanced Codebase Analysis** — Analyze, refactor, debug, and generate code.
-- 📦 **Modular Design** — Clean, extensible architecture.
-- 🌈 **Styled Output** — Colorful and readable logs.
-
----
-
-## 🧠 Available Providers
+## Available Providers
 
 | Provider  | Model                         | Command            |
 |-----------|-------------------------------|---------------------|
@@ -26,7 +14,7 @@
 
 ---
 
-## 🧾 Commands
+## Commands
 
 ### AI Commands
 - `/list` — View available AI providers
@@ -72,7 +60,7 @@ AI automatically detects file operations from natural language:
 
 ---
 
-## 📦 Setup
+## Setup
 
 1. **Clone the project**
 
@@ -114,45 +102,45 @@ AI automatically detects file operations from natural language:
 
       Welcome to COHORA AI CLI Assistant
 
-✨ Initializing modules...
-⚙️ AI Engines warming up...
-📁 File system integration active...
-🧠 Intelligent file operations enabled...
+Initializing modules...
+AI Engines warming up...
+File system integration active...
+Intelligent file operations enabled...
 
-🚀 COHORA AI CLI Agent is now up and running!
-🧭 Use /list to view available AI engines.
-🔄 Use /switch <provider> to activate one.
-📂 Use /files to explore local files.
-🤖 AGENT MODE: Try natural commands like "create readme file"!
-📘 Type /help to explore all commands.
+COHORA AI CLI Agent is now up and running!
+Use /list to view available AI engines.
+Use /switch <provider> to activate one.
+Use /files to explore local files.
+AGENT MODE: Try natural commands like "create readme file"!
+Type /help to explore all commands.
 ```
 
 ---
 
-## ⚡ Agent Mode Examples
+## Agent Mode Examples
 
 COHORA CLI features intelligent agent mode that understands natural language:
 
 ```bash
 user > create a new readme file
-🤖 AI created README.md
+AI created README.md
 
 user > make a package.json for my project
-🤖 AI created package.json
+AI created package.json
 
 user > debug server.js and fix the errors
-🤖 AI updated server.js
+AI updated server.js
 
 user > analyze my codebase structure
-📊 Codebase Analysis Results:
-📁 Total Files: 23
-📝 Total Lines: 1,847
-🔧 Languages: JavaScript, TypeScript, JSON
+Codebase Analysis Results:
+Total Files: 23
+Total Lines: 1,847
+Languages: JavaScript, TypeScript, JSON
 ```
 
 ---
 
-## 🧩 License
+## License
 
-MIT License — use it freely, fork it, contribute, and extend.  
+MIT License
 Crafted with ❤️ by the Cohora Team.
