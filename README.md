@@ -1,5 +1,6 @@
 <h1 align="center">🧠 COHORA AI CLI Assistant</h1>
 <p align="center"><i>Seamlessly switch and chat with top AI models from your terminal.</i></p>
+<img width="878" height="372" alt="image" src="https://github.com/user-attachments/assets/b0ff7728-e7f1-4164-a51c-2f6a170c52b2" />
 
 ---
 
