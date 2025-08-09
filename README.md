@@ -142,5 +142,5 @@ Languages: JavaScript, TypeScript, JSON
 
 ## License
 
-MIT License
+MIT License.
 Crafted with ❤️ by the Cohora Team.
